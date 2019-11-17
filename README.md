@@ -23,10 +23,11 @@ DSA1101 Introduction to Data Science was one of the courses I took during my stu
 
 ## License
 DSA1101 Introduction to Data Science is licensed under the [MIT license](./LICENSE).
-
+  
+<br>
 
 <p align="center">
-  <img src="https://www.r-project.org/logo/Rlogo.svg">
+  <img src="https://www.r-project.org/logo/Rlogo.svg" width="603.3" height="467.5">
 </p>
 
 [1]: http://www.nus.edu.sg/
