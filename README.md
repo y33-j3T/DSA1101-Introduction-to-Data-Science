@@ -1,4 +1,4 @@
-# DSA1101-Introduction-to-Data-Science
+# DSA1101 Introduction to Data Science
 Data analysis and machine learning practice with R.
 
 ## Contents
