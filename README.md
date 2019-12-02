@@ -15,8 +15,7 @@ DSA1101 Introduction to Data Science was one of the courses I took during my stu
 
 
 ## Note
-- Questions for each lab can be found in the `.pdf` file of each folder.
-- Additional data or input/ouput files in the form of `.txt` or `.dat` for each lab are included in their respective folders.
+- Additional data or input/ouput files in the form of `.csv` for each lab are included in their respective folders.
 
 ## Contributing
 - Please refer to [CONTRIBUTE.md](./CONTRIBUTE.md) for details. :heart_eyes:
