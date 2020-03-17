@@ -3,7 +3,7 @@ Data analysis and machine learning practice with R.
 
 ## Contents
 - [Introduction](#Introduction)
-- [Laboratories](#Laboratories)
+- [R scripts](#R-scripts)
 - [Note](#Note)
 - [Contributing](#Contributing)
 - [License](#License)
@@ -11,8 +11,8 @@ Data analysis and machine learning practice with R.
 ## Introduction
 DSA1101 Introduction to Data Science was one of the courses I took during my studies in [National University of Singapore][1] under [Faculty of Science][2]. This repository consists of my excercises on the lectures of the course as of December 2019.
 
-## Laboratories
-
+## R scripts
+- [R Scripts](./R-scripts)
 
 ## Note
 - Additional data or input/ouput files in the form of `.csv` for each lab are included in their respective folders.
